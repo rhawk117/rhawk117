@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security and Computer Science Student
 -------------------------------------------
 
-Sophomore at Augusta University majoring in Cyber Security with a minor in Computer Science, leveraging a comprehensive understanding of Cyber Security principles, Networking, and operating systems including Windows and Linux. Technical proficiency spans across programming in Python and C#, IT systems, SQL databases, Bash scripting, and development tools such as GitHub, alongside a solid foundation in Office 365, HTML, and CSS.
+Junior majoring in Cyber Security with a minor in Computer Science, leveraging a comprehensive understanding of Cyber Security principles, Networking, and operating systems including Windows and Linux. Technical proficiency spans across programming in Python and C#, IT systems, SQL databases, Bash scripting, and development tools such as GitHub, alongside a solid foundation in Office 365, HTML, and CSS.
 <br>
 <h2>About Me </h2>
-*   🌍  I'm based in Augusta, GA <br>
-*   🖥️  See my portfolio at [rhawk117.github.io/ryan\_web/views/index.html](http://https://rhawk117.github.io/ryan_web/views/index.html) <br>
+*   🌍  I'm based in US <br>
+*   🖥️  See my portfolio at [rhawk117.github.io/ryan_web/views/index.html](http://https://rhawk117.github.io/ryan_web/views/index.html) <br>
 *   🚀  I'm currently working on [Automating Dell Waranty Information](http://github.com/rhawk117/Auto_Dell_Waranty)<br>
-*   🧠  I'm learning Data Structures & Algorithms, Django, IT Automation. C#, Python
+*   🧠  I'm learning Data Structures & Algorithms, Django, Flask, IT Automation. C#, Python, 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhawk117&label=Profile%20views&color=0e75b6&style=flat" alt="rhawk117" /> </p>
 <h2> Skills </h2> 
