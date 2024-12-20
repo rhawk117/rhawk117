@@ -1,11 +1,9 @@
 <h2 align="center"> </> rhawk117 </> </h2>
 
-###
 
 <p align="left">Junior studying Cyber Security with a minor in Computer Science leveraging a comprehensive understanding of Software Engineering, Full Stack Web Development, Information Security, IT Automation, TCP / IP, DevOps and several security tools such as Nmap, Burpsuite and Metasploit.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhawk117.rhawk117&left_color=dimgrey&right_color=black&left_text=stalker%20count"  />
 </p>
-###
 <h3 align="center">[ Languages & Tools ]</h3>
 ###
 <div align="center">
