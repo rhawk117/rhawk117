@@ -1,8 +1,10 @@
-<h2 align="center"></> rhawk117 </></h2>
+<h2 align="center"> </> rhawk117 </> </h2>
 
 ###
 
-<p align="left">Junior studying Cyber Security with a minor in Computer Science leveraging a comprehensive understanding of Software Engineering, Full Stack Web Development, Information Security, IT Automation, TCP / IP, DevOps and several security tools such as Nmap, Burpsuite and Metasploit.</p>
+<p align="left">Junior studying Cyber Security with a minor in Computer Science leveraging a comprehensive understanding of Software Engineering, Full Stack Web Development, Information Security, IT Automation, TCP / IP, DevOps and several security tools such as Nmap, Burpsuite and Metasploit.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhawk117.rhawk117&left_color=dimgrey&right_color=black&left_text=stalker%20count"  />
+</p>
 
 ###
 
@@ -58,14 +60,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhawk117&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhawk117&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&order=2&custom_title=Stats" height="150" alt="languages graph"  />
-</div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhawk117.rhawk117&left_color=dimgrey&right_color=black&left_text=stalker%20count"  />
+
 
 ###
 
