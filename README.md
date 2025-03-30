@@ -5,7 +5,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhawk117.rhawk117&left_color=dimgrey&right_color=black&left_text=stalker%20count"  />
 </p>
 <h3 align="center">[ Languages & Tools ]</h3>
-###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
