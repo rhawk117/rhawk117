@@ -1,9 +1,9 @@
 <h2 align="center"> </> rhawk117 </> </h2>
 
 
-<p align="left">Senior studying Cyber Security with a minor in Computer Science leveraging a comprehensive understanding of Software Engineering, Full Stack Web Development, Information Security, IT Automation, TCP / IP, DevOps and several security tools. Primary knowledge areas include backend development in Python + FastAPI, Typescript + SvelteKit, Vanilla JavaScript & JQuery, Python & Bash Scripting and GitHub actions.
+<p align="left">Senior studying Cybersecurity with a minor in Computer Science leveraging a comprehensive understanding of Software Engineering, Full Stack Web Development, Information Security, IT Automation, TCP / IP, DevOps and several security tools. Primary knowledge areas include backend development in Python + FastAPI, Typescript + SvelteKit, Vanilla JavaScript & JQuery, Python & Bash Scripting and GitHub actions.
   
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhawk117.rhawk117&left_color=dimgrey&right_color=black&left_text=stalker%20count"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhawk117.rhawk117&left_color=dimgrey&right_color=black&left_text=Unique%20Visitors"  />
 </p>
 <h3 align="center">[ Languages & Tools ]</h3>
 <div align="center">
